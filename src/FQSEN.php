@@ -11,7 +11,7 @@
 
 namespace Codex\Phpdoc;
 
-class Entity
+class FQSEN
 {
     const PROPERTY = 'property';
     const METHOD = 'method';
